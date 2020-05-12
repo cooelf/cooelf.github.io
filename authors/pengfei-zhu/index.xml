@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pengfei Zhu | Zhuosheng Zhang</title>
+    <link>https://cooelf.github.io/authors/pengfei-zhu/</link>
+      <atom:link href="https://cooelf.github.io/authors/pengfei-zhu/index.xml" rel="self" type="application/rss+xml" />
+    <description>Pengfei Zhu</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright © 2020 Zhuosheng Zhang; All Rights Reserved</copyright><lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://cooelf.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Pengfei Zhu</title>
+      <link>https://cooelf.github.io/authors/pengfei-zhu/</link>
+    </image>
+    
+    <item>
+      <title>Effective character-augmented word embedding for machine reading comprehension</title>
+      <link>https://cooelf.github.io/publication/content/publication/zhang-2018-effective/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://cooelf.github.io/publication/content/publication/zhang-2018-effective/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Lingke: A Fine-grained Multi-turn Chatbot for Customer Service</title>
+      <link>https://cooelf.github.io/publication/content/publication/zhu-2018-lingke/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://cooelf.github.io/publication/content/publication/zhu-2018-lingke/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Modeling Multi-turn Conversation with Deep Utterance Aggregation</title>
+      <link>https://cooelf.github.io/publication/content/publication/zhang-2018-dua/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://cooelf.github.io/publication/content/publication/zhang-2018-dua/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

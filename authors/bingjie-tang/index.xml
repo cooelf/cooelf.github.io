@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Bingjie Tang | Zhuosheng Zhang</title>
+    <link>https://cooelf.github.io/authors/bingjie-tang/</link>
+      <atom:link href="https://cooelf.github.io/authors/bingjie-tang/index.xml" rel="self" type="application/rss+xml" />
+    <description>Bingjie Tang</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright © 2020 Zhuosheng Zhang; All Rights Reserved</copyright><lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://cooelf.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Bingjie Tang</title>
+      <link>https://cooelf.github.io/authors/bingjie-tang/</link>
+    </image>
+    
+    <item>
+      <title>SJTU-NLP at SemEval-2018 Task 9: Neural Hypernym Discovery with Term Embeddings</title>
+      <link>https://cooelf.github.io/publication/content/publication/zhang-2018-sjtu/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://cooelf.github.io/publication/content/publication/zhang-2018-sjtu/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,19 @@
+.home-section {
+    padding: 15px 0 15px 0;
+  }
+.section-heading {
+    font-size:20px;
+}
+body {
+ font-family:inherit;
+ font-size:0.6rem;
+ line-height:inherit;
+ color:inherit;
+ background-color:#fff;
+ margin-top:70px;
+ padding-top:0;
+ counter-reset:captions
+}
+footer {
+    margin: 0 0 0
+}

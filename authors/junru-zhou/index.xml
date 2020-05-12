@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Junru Zhou | Zhuosheng Zhang</title>
+    <link>https://cooelf.github.io/authors/junru-zhou/</link>
+      <atom:link href="https://cooelf.github.io/authors/junru-zhou/index.xml" rel="self" type="application/rss+xml" />
+    <description>Junru Zhou</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright © 2020 Zhuosheng Zhang; All Rights Reserved</copyright><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://cooelf.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Junru Zhou</title>
+      <link>https://cooelf.github.io/authors/junru-zhou/</link>
+    </image>
+    
+    <item>
+      <title>SG-Net: Syntax-Guided Machine Reading Comprehension</title>
+      <link>https://cooelf.github.io/publication/content/publication/zhang-2019-sg/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://cooelf.github.io/publication/content/publication/zhang-2019-sg/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

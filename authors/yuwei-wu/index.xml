@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Yuwei Wu | Zhuosheng Zhang</title>
+    <link>https://cooelf.github.io/authors/yuwei-wu/</link>
+      <atom:link href="https://cooelf.github.io/authors/yuwei-wu/index.xml" rel="self" type="application/rss+xml" />
+    <description>Yuwei Wu</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright © 2020 Zhuosheng Zhang; All Rights Reserved</copyright><lastBuildDate>Sat, 08 Feb 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://cooelf.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Yuwei Wu</title>
+      <link>https://cooelf.github.io/authors/yuwei-wu/</link>
+    </image>
+    
+    <item>
+      <title>DCMN&#43;: Dual co-matching network for multi-choice reading comprehension</title>
+      <link>https://cooelf.github.io/publication/content/publication/zhang-2020-dcmn/</link>
+      <pubDate>Sat, 08 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>https://cooelf.github.io/publication/content/publication/zhang-2020-dcmn/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Semantics-aware BERT for language understanding</title>
+      <link>https://cooelf.github.io/publication/content/publication/zhang-2020-sem-bert/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://cooelf.github.io/publication/content/publication/zhang-2020-sem-bert/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SG-Net: Syntax-Guided Machine Reading Comprehension</title>
+      <link>https://cooelf.github.io/publication/content/publication/zhang-2019-sg/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://cooelf.github.io/publication/content/publication/zhang-2019-sg/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Explicit Contextual Semantics for Text Comprehension</title>
+      <link>https://cooelf.github.io/publication/content/publication/zhang-2019-explicit/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://cooelf.github.io/publication/content/publication/zhang-2019-explicit/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

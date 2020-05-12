@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Shexia He | Zhuosheng Zhang</title>
+    <link>https://cooelf.github.io/authors/shexia-he/</link>
+      <atom:link href="https://cooelf.github.io/authors/shexia-he/index.xml" rel="self" type="application/rss+xml" />
+    <description>Shexia He</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright © 2020 Zhuosheng Zhang; All Rights Reserved</copyright><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://cooelf.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Shexia He</title>
+      <link>https://cooelf.github.io/authors/shexia-he/</link>
+    </image>
+    
+    <item>
+      <title>Dependency or span, end-to-end uniform semantic role labeling</title>
+      <link>https://cooelf.github.io/publication/content/publication/li-2019-dependency/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://cooelf.github.io/publication/content/publication/li-2019-dependency/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Effective Subword Segmentation for Text Comprehension</title>
+      <link>https://cooelf.github.io/publication/content/publication/zhang-2018-subword/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://cooelf.github.io/publication/content/publication/zhang-2018-subword/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A unified syntax-aware framework for semantic role labeling</title>
+      <link>https://cooelf.github.io/publication/content/publication/li-2018-unified/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://cooelf.github.io/publication/content/publication/li-2018-unified/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Joint learning of pos and dependencies for multilingual universal dependency parsing</title>
+      <link>https://cooelf.github.io/publication/content/publication/li-2018-joint/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://cooelf.github.io/publication/content/publication/li-2018-joint/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
