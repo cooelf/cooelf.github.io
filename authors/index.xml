@@ -240,18 +240,18 @@ Bachelor’s degree from
 &lt;a style=&#34;color:#005580&#34; href=&#34;https://wangruinlp.github.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Rui Wang&lt;/a&gt;, &lt;a style=&#34;color:#005580&#34; href=&#34;http://chenkehai.github.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt; Kehai Chen&lt;/a&gt;, &lt;a style=&#34;color:#005580&#34; href=&#34;http://www2.nict.go.jp/astrec-att/member/mutiyama/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt; Masao Utiyama&lt;/a&gt;, and &lt;a style=&#34;color:#005580&#34; href=&#34;http://att-astrec.nict.go.jp/member/sumita/index.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Eiichiro Sumita&lt;/a&gt;.&lt;/p&gt;
 &lt;p style=&#34;text-align:justify; text-justify:inter-ideograph;&#34;&gt;&lt;span class=&#34;markup-quote&#34;&gt;Research Interest&lt;/span&gt;: &lt;strong&gt;Natural Language Understanding&lt;/strong&gt; in general, with enthusiasm to plug human expertise into the methodology of language learning, and repurpose off-the-shelf algorithms for training machines to read, comprehend, and reason over natural language texts. The methodology is built upon the principled theme of &lt;strong&gt;Machine Reading Comprehension&lt;/strong&gt;, as a major topic of artificial intelligence, in which I focus on a variety of methods involving &lt;i&gt;structured knowledge contextualization&lt;/i&gt; (e.g., semantics, syntax, commonsense, etc.) 
 (&lt;a href=&#34;publication/content/publication/zhang-2020-sem-bert/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;AAAI&amp;rsquo;20&lt;/a&gt;, 
-&lt;a href=&#34;http://bcmi.sjtu.edu.cn/home/zhangzs/publication/content/publication/zhang-2019-sg/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;AAAI&amp;rsquo;20b&lt;/a&gt;),    
+&lt;a href=&#34;publication/content/publication/zhang-2019-sg/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;AAAI&amp;rsquo;20b&lt;/a&gt;),    
     &lt;i&gt;language unit representation and vocabulary learning&lt;/i&gt;
-(&lt;a href=&#34;http://bcmi.sjtu.edu.cn/home/zhangzs/publication/content/publication/zhang-2019-acl/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ACL&amp;rsquo;19&lt;/a&gt;,
-&lt;a href=&#34;http://bcmi.sjtu.edu.cn/home/zhangzs/publication/content/publication/zhang-2018-subword/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;TASLP&lt;/a&gt;,
-&lt;a href=&#34;http://bcmi.sjtu.edu.cn/home/zhangzs/publication/content/publication/zhang-2018-mrc/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;COLING&amp;rsquo;18&lt;/a&gt;),
+(&lt;a href=&#34;publication/content/publication/zhang-2019-acl/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ACL&amp;rsquo;19&lt;/a&gt;,
+&lt;a href=&#34;publication/content/publication/zhang-2018-subword/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;TASLP&lt;/a&gt;,
+&lt;a href=&#34;publication/content/publication/zhang-2018-mrc/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;COLING&amp;rsquo;18&lt;/a&gt;),
     and &lt;i&gt;multimodal perception&lt;/i&gt;
-(&lt;a href=&#34;http://bcmi.sjtu.edu.cn/home/zhangzs/publication/content/publication/zhang-2020-neural/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ICLR&amp;rsquo;20&lt;/a&gt;). 
+(&lt;a href=&#34;publication/content/publication/zhang-2020-neural/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ICLR&amp;rsquo;20&lt;/a&gt;). 
 The approaches enable effective, efficient, and interpretable solutions for real-world applications, such as &lt;strong&gt;question answering&lt;/strong&gt;
-(&lt;a href=&#34;http://bcmi.sjtu.edu.cn/home/zhangzs/publication/content/publication/zhang-2018-gaokao/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;COLING&amp;rsquo;18b&lt;/a&gt;), 
+(&lt;a href=&#34;publication/content/publication/zhang-2018-gaokao/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;COLING&amp;rsquo;18b&lt;/a&gt;), 
 &lt;strong&gt;dialogue and interactive systems&lt;/strong&gt;
-(&lt;a href=&#34;http://bcmi.sjtu.edu.cn/home/zhangzs/publication/content/publication/zhang-2018-dua/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;COLING&amp;rsquo;18c&lt;/a&gt;, 
-&lt;a href=&#34;http://bcmi.sjtu.edu.cn/home/zhangzs/publication/content/publication/zhu-2018-lingke/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;COLING&amp;rsquo;18d&lt;/a&gt;), 
+(&lt;a href=&#34;publication/content/publication/zhang-2018-dua/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;COLING&amp;rsquo;18c&lt;/a&gt;, 
+&lt;a href=&#34;publication/content/publication/zhu-2018-lingke/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;COLING&amp;rsquo;18d&lt;/a&gt;), 
 and &lt;strong&gt;machine translation&lt;/strong&gt;. &lt;br&gt;
     &lt;u&gt;&lt;a href=&#34;https://cooelf.github.io/home/zhangzs/#featured&#34; data-target=&#34;#featured&#34;&gt;See my publications&lt;/a&gt;&lt;/u&gt;.
 &lt;/p&gt;
