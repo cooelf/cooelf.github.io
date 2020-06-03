@@ -29,9 +29,25 @@
     </item>
     
     <item>
+      <title>Semantics-aware BERT for language understanding</title>
+      <link>https://cooelf.github.io/publication/content/publication/zhang-2020-sem-bert/</link>
+      <pubDate>Sat, 08 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>https://cooelf.github.io/publication/content/publication/zhang-2020-sem-bert/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SG-Net: Syntax-Guided Machine Reading Comprehension</title>
+      <link>https://cooelf.github.io/publication/content/publication/zhang-2019-sg/</link>
+      <pubDate>Sat, 08 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>https://cooelf.github.io/publication/content/publication/zhang-2019-sg/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>DCMN&#43;: Dual co-matching network for multi-choice reading comprehension</title>
       <link>https://cooelf.github.io/publication/content/publication/zhang-2020-dcmn/</link>
-      <pubDate>Sat, 08 Feb 2020 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 07 Feb 2020 00:00:00 +0000</pubDate>
       <guid>https://cooelf.github.io/publication/content/publication/zhang-2020-dcmn/</guid>
       <description></description>
     </item>
@@ -41,22 +57,6 @@
       <link>https://cooelf.github.io/publication/content/publication/li-2020-explicit/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
       <guid>https://cooelf.github.io/publication/content/publication/li-2020-explicit/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Semantics-aware BERT for language understanding</title>
-      <link>https://cooelf.github.io/publication/content/publication/zhang-2020-sem-bert/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://cooelf.github.io/publication/content/publication/zhang-2020-sem-bert/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>SG-Net: Syntax-Guided Machine Reading Comprehension</title>
-      <link>https://cooelf.github.io/publication/content/publication/zhang-2019-sg/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://cooelf.github.io/publication/content/publication/zhang-2019-sg/</guid>
       <description></description>
     </item>
     
@@ -101,6 +101,46 @@
     </item>
     
     <item>
+      <title>Modeling Multi-turn Conversation with Deep Utterance Aggregation</title>
+      <link>https://cooelf.github.io/publication/content/publication/zhang-2018-dua/</link>
+      <pubDate>Wed, 15 Aug 2018 00:00:00 +0000</pubDate>
+      <guid>https://cooelf.github.io/publication/content/publication/zhang-2018-dua/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>One-shot Learning for Question-Answering in Gaokao History Challenge</title>
+      <link>https://cooelf.github.io/publication/content/publication/zhang-2018-gaokao/</link>
+      <pubDate>Wed, 15 Aug 2018 00:00:00 +0000</pubDate>
+      <guid>https://cooelf.github.io/publication/content/publication/zhang-2018-gaokao/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Subword-augmented Embedding for Cloze Reading Comprehension</title>
+      <link>https://cooelf.github.io/publication/content/publication/zhang-2018-mrc/</link>
+      <pubDate>Wed, 15 Aug 2018 00:00:00 +0000</pubDate>
+      <guid>https://cooelf.github.io/publication/content/publication/zhang-2018-mrc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Lingke: A Fine-grained Multi-turn Chatbot for Customer Service</title>
+      <link>https://cooelf.github.io/publication/content/publication/zhu-2018-lingke/</link>
+      <pubDate>Sun, 12 Aug 2018 00:00:00 +0000</pubDate>
+      <guid>https://cooelf.github.io/publication/content/publication/zhu-2018-lingke/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Moon IME: Neural-based Chinese Pinyin Aided Input Method with Customizable Association</title>
+      <link>https://cooelf.github.io/publication/content/publication/huang-2018-moon/</link>
+      <pubDate>Sun, 15 Jul 2018 00:00:00 +0000</pubDate>
+      <guid>https://cooelf.github.io/publication/content/publication/huang-2018-moon/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>A unified syntax-aware framework for semantic role labeling</title>
       <link>https://cooelf.github.io/publication/content/publication/li-2018-unified/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
@@ -125,50 +165,10 @@
     </item>
     
     <item>
-      <title>Lingke: A Fine-grained Multi-turn Chatbot for Customer Service</title>
-      <link>https://cooelf.github.io/publication/content/publication/zhu-2018-lingke/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>https://cooelf.github.io/publication/content/publication/zhu-2018-lingke/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Modeling Multi-turn Conversation with Deep Utterance Aggregation</title>
-      <link>https://cooelf.github.io/publication/content/publication/zhang-2018-dua/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>https://cooelf.github.io/publication/content/publication/zhang-2018-dua/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Moon IME: Neural-based Chinese Pinyin Aided Input Method with Customizable Association</title>
-      <link>https://cooelf.github.io/publication/content/publication/huang-2018-moon/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>https://cooelf.github.io/publication/content/publication/huang-2018-moon/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>One-shot Learning for Question-Answering in Gaokao History Challenge</title>
-      <link>https://cooelf.github.io/publication/content/publication/zhang-2018-gaokao/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>https://cooelf.github.io/publication/content/publication/zhang-2018-gaokao/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>SJTU-NLP at SemEval-2018 Task 9: Neural Hypernym Discovery with Term Embeddings</title>
       <link>https://cooelf.github.io/publication/content/publication/zhang-2018-sjtu/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
       <guid>https://cooelf.github.io/publication/content/publication/zhang-2018-sjtu/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Subword-augmented Embedding for Cloze Reading Comprehension</title>
-      <link>https://cooelf.github.io/publication/content/publication/zhang-2018-mrc/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>https://cooelf.github.io/publication/content/publication/zhang-2018-mrc/</guid>
       <description></description>
     </item>
     
